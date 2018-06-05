@@ -1,4 +1,0 @@
-﻿  Graph.cpp
-c:\temp\mp2-practice\glotovns\lab2\src\graph.cpp(115): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-c:\temp\mp2-practice\glotovns\lab2\src\graph.cpp(140): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Graph.vcxproj -> C:\temp\mp2-practice\GlotovNS\lab2\sln\vc\lab2-DHeap\Debug\Graph.lib
